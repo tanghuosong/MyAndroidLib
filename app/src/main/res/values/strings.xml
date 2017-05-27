@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="index">首页</string>
+    <string name="message">消息</string>
+    <string name="user">我的</string>
+    <string name="test">测试</string>
+</resources>
