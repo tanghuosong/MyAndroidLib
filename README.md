@@ -1,6 +1,6 @@
 # MyAndroidLib
 
-2017-7-27 第一次添加库，加入TabBar 、 SearchView 实现，当前版本V1.0.0。
+## 2017-7-27 第一次添加库，加入TabBar 、 SearchView 实现，当前版本V1.0.0。
 
 	1.可以实现TabBar的定制化，只需要做简单的修改，项目依赖mylibrary便可使用。
 	
